@@ -1,5 +1,5 @@
 # 👋 Selamat Datang di Aplikasi Manajemen Invoice  
-Halo! 👋
+Halo! 👋  
 Selamat datang di Aplikasi Manajemen Invoice berbasis web yang dibangun menggunakan CodeIgniter 4.
 Aplikasi ini dirancang untuk membantu anda dalam mengelola pelanggan, produk, serta membuat dan mencetak invoice secara cepat dan efisien.
 
@@ -15,7 +15,7 @@ Cocok untuk pelaku UMKM, staf admin, hingga pengelola bisnis skala kecil dan men
 - Login pengguna  
 - Manajemen pelanggan (CRUD)  
 - Manajemen produk (CRUD)  
-- Pembuatan invoice otomatis  
+- Pembuatan invoice (CRUD)  
 - Riwayat & detail invoice  
 
 ## MOCK UP  
