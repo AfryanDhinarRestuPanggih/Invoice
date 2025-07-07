@@ -6,6 +6,11 @@ Aplikasi ini dirancang untuk membantu anda dalam mengelola pelanggan, produk, se
 Nikmati kemudahan pencatatan transaksi dan pantau seluruh tagihan hanya dalam beberapa klik.
 Cocok untuk pelaku UMKM, staf admin, hingga pengelola bisnis skala kecil dan menengah.
 
+## 👥 Anggota Kelompok  
+1. Charlos Louis F  
+2. Afryan Dhinar Restu Panggih  
+3. Andika Setiawan  
+
 ## ✨ Fitur Utama  
 - Login pengguna  
 - Manajemen pelanggan (CRUD)  
