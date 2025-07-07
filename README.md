@@ -35,38 +35,48 @@ Cocok untuk pelaku UMKM, staf admin, hingga pengelola bisnis skala kecil dan men
 ![image](https://github.com/user-attachments/assets/344fc00e-c101-49b6-968f-b4a4cd7182e3)
 ----
 
-## Tampilan Aplikasi 
-**🔐 Halaman Login**  
-Halaman login untuk mengakses sistem manajemen invoice.
+# Tampilan Aplikasi  
+**🔐 Halaman Login**   
+Halaman login untuk mengakses sistem manajemen invoice.  
+
 ![Screenshot 2025-07-07 155253](https://github.com/user-attachments/assets/0045fde0-c8fa-4e5d-b366-58dc6f8e2737)
 
 **📝 Halaman Register**  
-Form pendaftaran akun pengguna baru.
+Form pendaftaran akun pengguna baru.  
+
 ![image](https://github.com/user-attachments/assets/90479992-c073-48c6-aa73-6ebed3a6b801)
 
-**📊 Dashboard**
+**📊 Dashboard**  
 Menampilkan ringkasan data pelanggan, produk, dan invoice.  
-![image](https://github.com/user-attachments/assets/db6ef176-dfc0-4420-be11-9d05b46ffe01)
-Halaman dashboard menampilkan ringkasan jumlah invoice, total pendapatan, dan status invoice secara visual.  
-Terdapat grafik pendapatan bulanan dan diagram donat untuk melihat distribusi status invoice (Draft, Terkirim, Dibayar, Batal) secara real-time.
 
-**📦 Data Produk**
+![image](https://github.com/user-attachments/assets/db6ef176-dfc0-4420-be11-9d05b46ffe01)  
+
+Halaman dashboard menampilkan ringkasan jumlah invoice, total pendapatan, dan status invoice secara visual.   
+Terdapat grafik pendapatan bulanan dan diagram donat untuk melihat distribusi status invoice (Draft, Terkirim, Dibayar, Batal) secara real-time.  
+
+**📦 Data Produk**  
 Kelola data produk: tambah, edit, hapus, dan lihat detail.  
-![image](https://github.com/user-attachments/assets/ed4326d4-b130-4f20-847e-633a80e421b5)
-Menampilkan daftar produk yang tersedia dalam sistem.
-Setiap produk mencakup informasi kode, nama, deskripsi, harga, satuan, dan status aktif/tidak.
-Terdapat fitur pencarian, tombol untuk mengedit atau menghapus produk, serta opsi untuk menambah produk baru.
+
+![image](https://github.com/user-attachments/assets/ed4326d4-b130-4f20-847e-633a80e421b5)  
+
+Menampilkan daftar produk yang tersedia dalam sistem.  
+Setiap produk mencakup informasi kode, nama, deskripsi, harga, satuan, dan status aktif/tidak.  
+Terdapat fitur pencarian, tombol untuk mengedit atau menghapus produk, serta opsi untuk menambah produk baru.  
 
 **👥 Data Pelanggan**  
 Manajemen data pelanggan secara lengkap.  
-![image](https://github.com/user-attachments/assets/7bc05022-0b39-4a83-8b7b-38a0eff1991b)
+
+![image](https://github.com/user-attachments/assets/7bc05022-0b39-4a83-8b7b-38a0eff1991b)  
+
 Menampilkan daftar data pelanggan yang tersimpan dalam sistem.
-Setiap entri memuat informasi nama, email, nomor telepon, dan alamat.
-Disediakan tombol aksi untuk melihat detail, mengedit, dan menghapus data pelanggan. Juga tersedia tombol Tambah Pelanggan di kanan atas untuk input baru.
+Setiap entri memuat informasi nama, email, nomor telepon, dan alamat. 
+Disediakan tombol aksi untuk melihat detail, mengedit, dan menghapus data pelanggan. Juga tersedia tombol Tambah Pelanggan di kanan atas untuk input baru.  
 
 **🧾 Data Invoice**  
 Buat dan kelola invoice secara otomatis dan efisien.  
-![image](https://github.com/user-attachments/assets/59de3b06-e078-4454-8886-19820929af46)
+
+![image](https://github.com/user-attachments/assets/59de3b06-e078-4454-8886-19820929af46)  
+
 Menampilkan daftar invoice yang telah dibuat, lengkap dengan informasi pelanggan, tanggal, total tagihan, dan status pembayaran.
 Terdapat fitur pencarian berdasarkan nomor invoice/nama pelanggan, filter status, serta rentang tanggal.
 Informasi ringkasan seperti total invoice, total pendapatan, total belum dibayar, dan rata-rata invoice juga ditampilkan.
