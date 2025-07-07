@@ -1,0 +1,4 @@
+ALTER TABLE `invoices` 
+ADD COLUMN `sent_at` DATETIME NULL,
+ADD COLUMN `paid_at` DATETIME NULL,
+ADD COLUMN `cancelled_at` DATETIME NULL; 

@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS products (
+    id INT(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+    code VARCHAR(20) NOT NULL UNIQUE,
+    name VARCHAR(255) NOT NULL,
+    description TEXT NULL,
+    price DECIMAL(15,2) DEFAULT 0.00,
+    unit VARCHAR(50) NULL,
+    stock INT(11) DEFAULT 0,
+    is_active TINYINT(1) DEFAULT 1,
+    created_at DATETIME NULL,
+    updated_at DATETIME NULL,
+    PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci; 
