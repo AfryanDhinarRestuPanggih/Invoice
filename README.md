@@ -25,7 +25,8 @@ Pengguna tiba di halaman login aplikasi Web Invoice. Anda diminta untuk memasukk
 
 ### Dashboard  
 <img width="630" height="432" alt="Screenshot 2025-07-11 163418" src="https://github.com/user-attachments/assets/7b8d8a34-5a8a-4732-bc55-baabc98c8f08" />  
-Setelah berhasil login, pengguna diarahkan ke halaman Dashboard. Di sini, pengguna dapat melihat ringkasan data seperti total invoice yang telah dibuat, total pendapatan yang telah dibayarkan, serta jumlah invoice yang masih pending.   
+
+Setelah berhasil login, pengguna diarahkan ke halaman Dashboard. Di sini, pengguna dapat melihat ringkasan data seperti total invoice yang telah dibuat, total pendapatan yang telah dibayarkan, serta jumlah invoice yang masih pending.  
 
 ### Halaman Produk  
 <img width="1020" height="652" alt="Screenshot 2025-07-11 163549" src="https://github.com/user-attachments/assets/73ea27c5-9709-491d-92b1-4fd27fb1c85f" />  
