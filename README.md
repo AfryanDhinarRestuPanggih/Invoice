@@ -23,7 +23,7 @@ Cocok untuk pelaku UMKM, staf admin, hingga pengelola bisnis skala kecil dan men
 <img width="1182" height="467" alt="Screenshot 2025-07-11 163019" src="https://github.com/user-attachments/assets/e54f97d0-688a-4cce-9bbe-9abc1c67c89b" />  
 Pengguna tiba di halaman login aplikasi Web Invoice. Anda diminta untuk memasukkan email dan password. Setelah itu, pengguna menekan tombol 'Login' untuk masuk ke sistem. Bila belum memiliki akun, pengguna dapat mengklik link 'Daftar di sini'. Jika lupa password, tersedia link 'Lupa Password?' untuk pemulihan akun. Dan halaman pendaftaran, pengguna diminta mengisi nama lengkap, email, password, dan konfirmasi password. Setelah semua data diisi, pengguna menekan tombol 'Daftar' untuk membuat akun baru. Bila sudah memiliki akun, pengguna bisa kembali ke halaman login melalui link 'Login di sini'.  
 
-### Dashboard 
+### Dashboard  
 <img width="630" height="432" alt="Screenshot 2025-07-11 163418" src="https://github.com/user-attachments/assets/7b8d8a34-5a8a-4732-bc55-baabc98c8f08" />  
 Setelah berhasil login, pengguna diarahkan ke halaman Dashboard. Di sini, pengguna dapat melihat ringkasan data seperti total invoice yang telah dibuat, total pendapatan yang telah dibayarkan, serta jumlah invoice yang masih pending.   
 
